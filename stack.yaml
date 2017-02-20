@@ -1,0 +1,6 @@
+resolver: lts-8.2
+packages:
+- '.'
+- haddock-api/
+- haddock-library/
+- haddock-test/
